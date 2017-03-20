@@ -1,2 +1,2 @@
 # MCManager
-An all-purpose manager for Multipeer Connectivity
+A barebones manager for Multipeer Connectivity
